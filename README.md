@@ -1,0 +1,4 @@
+- Hi, I’m @HopeSailor
+- I’m interested in KG, NER
+- I’m currently learning TransE, LSTM-CRF
+- How to reach me: 18711028@bjtu.edu.cn
