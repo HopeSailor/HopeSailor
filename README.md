@@ -1,4 +1,3 @@
 - Hi, I’m @HopeSailor
-- I’m interested in KG, NER
-- I’m currently learning TransE, LSTM-CRF
-- How to reach me: 18711028@bjtu.edu.cn
+- I’m interested in NLP, machine learning, KG, NER
+- How to reach me: 22120641@bjtu.edu.cn
