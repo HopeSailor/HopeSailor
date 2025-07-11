@@ -1,3 +1,3 @@
 - Hi, I’m @HopeSailor
 - I’m interested in NLP, machine learning, KG, NER
-- How to reach me: 22120641@bjtu.edu.cn
+- How to reach me: 2501111165@stu.pku.edu.cn
